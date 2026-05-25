@@ -24,7 +24,6 @@ analyst = {
     "location"   : "New Delhi, India 🇮🇳",
     "role"       : "Data Analyst",
     "tools"      : ["Power BI", "SQL", "Python", "Excel"],
-    "learning"   : ["Generative AI", "Advanced DAX", "Cloud Analytics"],
     "open_to"    : "DA · BI Analyst · BA roles across India",
     "contact"    : "nikhilgarg216@gmail.com"
 }
@@ -45,6 +44,35 @@ analyst = {
 
 <!-- MARQUEE SCROLLING TEXT -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=99999&color=1A4FBA&center=true&vCenter=true&width=900&height=25&lines=◈+Power+BI+◈+DAX+◈+SQL+◈+Python+◈+pandas+◈+NumPy+◈+NLP+◈+VADER+◈+Excel+◈+Star+Schema+◈+Data+Modeling+◈+EDA+◈+Jupyter+◈+GitHub+" alt="skills marquee" />
+
+---
+
+## 👾 Interests
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=79A500&center=true&vCenter=true&width=500&height=50&lines=INTERESTS" alt="INTERESTS" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,tensorflow,azure,gcp,git&perline=8" alt="interest icons" />
+
+<br/><br/>
+
+<!-- Row 2: Data specific tools -->
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="35"/>
+&nbsp;
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="35"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="35"/>
+
+</div>
 
 ---
 
