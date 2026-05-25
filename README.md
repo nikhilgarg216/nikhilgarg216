@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=79A500&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Nikhil+Garg+👋;Data+Analyst+%7C+New+Delhi;SQL+%7C+Power+BI+%7C+Python;Turning+raw+data+into+decisions+📊" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=79A500&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Nikhil+Garg+👋;Data+Analyst+%7C+New+Delhi;SQL+%7C+Power+BI+%7C+Python;Turning+raw+data+into+decisions" alt="Typing SVG" />
 
 <!-- CAPSULE HEADER DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:1A3A6C,100:0C1E3C" />
